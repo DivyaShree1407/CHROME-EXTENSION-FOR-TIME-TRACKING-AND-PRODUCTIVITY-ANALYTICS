@@ -35,3 +35,5 @@ Overall, this time-tracking solution empowers individuals to understand and opti
 It could also support user accounts with authentication and server-side per-user storage for cross-device consistency.
 
 OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/d015fc30-61ef-4759-9d0f-669ee8b6ca62)
